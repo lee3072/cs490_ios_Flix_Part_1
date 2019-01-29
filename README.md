@@ -38,7 +38,7 @@ URL not listed on Website
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-<img src="https://i.imgur.com/t1fpwDq.gifv" width=250><br>
+<img src="https://i.imgur.com/DQtwGjn.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
